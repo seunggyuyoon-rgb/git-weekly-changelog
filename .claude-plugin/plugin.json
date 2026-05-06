@@ -1,0 +1,9 @@
+{
+  "name": "git-weekly-changelog",
+  "description": "Turn a week of git commits into a readable, themed Markdown changelog",
+  "version": "1.0.0",
+  "author": {
+    "name": "seunggyuyoon-rgb"
+  },
+  "homepage": "https://github.com/seunggyuyoon-rgb/git-weekly-changelog"
+}
