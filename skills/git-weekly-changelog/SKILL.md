@@ -15,7 +15,7 @@ Produce a concise, readable weekly changelog from repository history. Group by u
    - State the exact start and end timestamps, including timezone.
 
 2. **Read repository context** before doing any work:
-   - Check for `CLAUDE.md`, `AGENTS.md`, or `CONTRIBUTING.md` for project conventions.
+   - Check for `CLAUDE.md` for project conventions.
    - Use read-only git and file inspection only. Do not run builds, tests, or other side-effecting commands.
 
 3. **Inspect git history** with lightweight read-only commands:
